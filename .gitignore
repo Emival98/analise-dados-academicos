@@ -1,0 +1,16 @@
+# Pasta de backup/cache do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Configurações do ambiente de desenvolvimento (VS Code)
+.vscode/
+
+# Arquivos compilados pelo Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais (se aplicar)
+venv/
+.venv/
+env/
+
+academico.ipynb
